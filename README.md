@@ -16,13 +16,13 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 Imagem do esboço (wireframe) criado para o projeto:
 
-![Esboço do Layout](esboço-do-projeto.png)
+![Esboço do Layout](Esboço-do-Projeto.png)
 
-![Esboço do Layout](esboço-do-projeto-2.png)
+![Esboço do Layout](Esboço-do-projeto-2.png)
 
 Print da home-page criada para o projeto:
 
-![Print da Home-page](print-homepage-1.png)
+![Print da Home-page](Print-homepage.png)
 
-![Print da Home-page](print-homepage-2.png)
+![Print da Home-page](Print-homepage1.png)
 
